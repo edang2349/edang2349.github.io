@@ -8,14 +8,33 @@ body{
     padding:10px;
     margin:10px;
     background: plum;
+    border-radius: 5px;
 }
 
 .assignment img{
     width: 200px;
     padding: 10px;
+    border: 4px dashed #FFF;
+}
+
+.assignment img {
+    border: 4px dashed #F25C69;
 }
 
 hl{
     color: black;
     text-align:center;
+}
+
+hl:hover{
+    color: #F25C69;
+}
+
+a {
+    text-decoration:none;
+    color: #FFF;
+}
+
+a:hover {
+    color: #F25C69;
 }
