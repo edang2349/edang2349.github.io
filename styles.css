@@ -3,6 +3,18 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 
+.assignment{
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background: plum;
+}
+
+.assignment img{
+    width: 200px;
+    padding: 10px;
+}
+
 hl{
     color: black;
     text-align:center;
